@@ -1,6 +1,6 @@
 # **Exploratory Data Analysis (EDA) on the Iris Dataset**  
 
-![species-of-IRIS-flower](Resources/species-of-IRIS-flower(0).jpg)
+![species-of-IRIS-flower](Resources/Three-species-of-IRIS-flower(0).jpg)
 
 ## **Project Overview**  
 
