@@ -102,18 +102,12 @@ This project can be further extended by applying **classification algorithms** s
 ## **How to Use This Project**  
 1. Clone the repository:  
    ```bash
-   git clone https://github.com/your-username/iris-eda.git
-   cd iris-eda
+   git clone [https://github.com/your-username/iris-eda.git](https://github.com/Jabulente/Exploratory-Data-Analysis-EDA-on-the-Iris-Dataset.git)
    ```
-2. Install dependencies:  
-   ```bash
-   pip install -r requirements.txt
-   ```
+
 3. Run the Jupyter Notebook to explore the analysis.
 
 ---
 
 ### **Author**  
-**Jabulente** – Data Analyst | Data Scientist  
-
-For more projects, check out: [GitHub Profile](#) or [LinkedIn](#)  
+**Jabulente** – Data Analyst | Data Scientist
