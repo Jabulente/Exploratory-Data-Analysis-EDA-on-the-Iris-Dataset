@@ -93,9 +93,8 @@ This project can be further extended by applying **classification algorithms** s
 ---
 
 ## **Technology & Tools Used**  
-🟢 Python (Pandas, NumPy, Matplotlib, Seaborn)  
-🟢 Jupyter Notebook / Google Colab  
-🟢 Data visualization tools  
+🟢 Python (Pandas, NumPy, Matplotlib, Seaborn, Statmodel, Sklearn)  
+🟢 Jupyter Notebook 
 
 ---
 
